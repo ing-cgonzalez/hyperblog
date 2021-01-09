@@ -3,3 +3,5 @@ Esta es la primera prueba del curso de Git
 Necesitamos probar colocando varios textos. Por esa razón, modificamos un poco el archivo
 
 Para poder ver los cambios.
+
+Agregamos una nueva línea para comparar.
