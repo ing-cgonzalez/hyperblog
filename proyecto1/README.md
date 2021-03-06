@@ -8,3 +8,4 @@ Si quieres descubrir más cosas increíbles, visita [platzi.com](https://platzi.
 
 Creado por Carlos González.
 Incluye más detalles.
+Disponible para todo el mundo.
