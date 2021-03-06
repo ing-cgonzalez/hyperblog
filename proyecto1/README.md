@@ -7,3 +7,5 @@ Este es un proyecto de prueba, producto del curso de Git y Github de Platzi.
 Si quieres descubrir más cosas increíbles, visita [platzi.com](https://platzi.com "platzi.com") y encuentra entre una gran variedad de cursos el que necesitas para **nunca parar de aprender**.
 
 Creado por Carlos González.
+Incluye más detalles.
+Disponible para todo el mundo.
